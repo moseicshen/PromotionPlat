@@ -1,0 +1,1 @@
+package com.lot.domain.yyy.service;
